@@ -540,7 +540,7 @@
                   In this photo that is part of the Apollo 15 Learning Hub’s collection, Commander David Scott tests the
                   steering mechanisms of the Lunar Rover before the EVA-2 traverse. The lunar module was controlled by a
                   joystick instead of a steering wheel because it would have been difficult for the astronauts to grasp in
-                  their spacesuits (NASA, 1971k).
+                  their spacesuits (NASA, 1971i).
                 </p>
                 <div class="margin-v2">
                     <figcaption data-aos="fade-in" class="uk-flex uk-flex-bottom uk-flex-between uk-margin-small-bottom">
@@ -817,6 +817,9 @@
               Apollo 15 - Apollo Flight Journal (2019) Apollo 15 - 16-mm magazine 1246-EE. [Online]. Available from: https://www.youtube.com/watch?v=BTq9jtTg89E
               </p>
               <p data-aos="fade-in">
+              NASA (1970i) Apollo in Antarctica (I) · The Apollo 15 Learning Hub. [Online]. 9 January 1970. Available from: https://apollo15hub.org/items/show/175
+              </p>
+              <p data-aos="fade-in">
               NASA (1971) Launch: ap15-71-HC-977HR · The Apollo 15 Learning Hub. [Online]. 1971. Available from: https://apollo15hub.org/items/show/68
               </p>
               <p data-aos="fade-in">
@@ -844,16 +847,13 @@
               NASA (1971h) Apollo 15 Flight Data File: Lunar Surface Checklist. [Online]. Available from: https://readux.io/volume/v3mrz/page/v3mrz_227.jpg
               </p>
               <p data-aos="fade-in">
-              NASA (1970i) Apollo in Antarctica (I) · The Apollo 15 Learning Hub. [Online]. 9 January 1970. Available from: https://apollo15hub.org/items/show/175
+              NASA (1971i) EVA 2: as15-85-11470HR · The Apollo 15 Learning Hub. [Online]. 1971. Available from: https://apollo15hub.org/items/show/86
               </p>
               <p data-aos="fade-in">
               NASA (1971j) EVA 1: AS15-86-11593HR · The Apollo 15 Learning Hub. [Online]. 1971. Available from: https://apollo15hub.org/items/show/25
               </p>
               <p data-aos="fade-in">
-              NASA (1971k) EVA 2: as15-85-11470HR · The Apollo 15 Learning Hub. [Online]. 1971. Available from: https://apollo15hub.org/items/show/86
-              </p>
-              <p data-aos="fade-in">
-              NASA (1971) EVA 2: AS15-86-11673HR · The Apollo 15 Learning Hub. [Online]. 1971. Available from: https://apollo15hub.org/items/show/62
+              NASA (1971k) EVA 2: AS15-86-11673HR · The Apollo 15 Learning Hub. [Online]. 1971. Available from: https://apollo15hub.org/items/show/62
               </P>
               <p data-aos="fade-in">
               NASA (1971l) EVA 3: Hammer and feather experiment · The Apollo 15 Learning Hub. [Online]. 1971. Available from: https://apollo15hub.org/items/show/11
@@ -872,6 +872,9 @@
               </p>
               <p data-aos="fade-in">
               NASA (1971q) Touchdown - landing video - test · The Apollo 15 Learning Hub. [Online]. 1971. Available from: https://apollo15hub.org/items/show/193
+              </p>
+              <p data-aos="fade-in">
+              National Aeronautics and Space Administration (1971) Apollo 15 Mission Report. Manned Spacecraft Center, Houston, TX. December 1971. Available from: https://www.hq.nasa.gov/alsj/a15/ap15mr.pdf
               </p>
               <p data-aos="fade-in">
               Scott, D. (1970) NASA Antarctic Visit.p.8.
