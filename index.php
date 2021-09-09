@@ -291,7 +291,7 @@
               </p>
               <div class="margin-v2">
                 <figcaption data-aos="fade-in" class="uk-flex uk-flex-bottom uk-flex-between uk-margin-small-bottom">
-                  <div class="object-title">Apollo 15 Launch (NASA 1971)</div>
+                  <div class="object-title">Apollo 15 Launch (NASA 1971r)</div>
                   <a class="object-action uk-button uk-button-default" href="https://apollo15hub.org/items/show/68"
                     target="_blank">
                     <!--<span uk-icon="link"></span>-->
@@ -540,7 +540,7 @@
                   In this photo that is part of the Apollo 15 Learning Hub’s collection, Commander David Scott tests the
                   steering mechanisms of the Lunar Rover before the EVA-2 traverse. The lunar module was controlled by a
                   joystick instead of a steering wheel because it would have been difficult for the astronauts to grasp in
-                  their spacesuits (NASA, 1971k).
+                  their spacesuits (NASA, 1971i).
                 </p>
                 <div class="margin-v2">
                     <figcaption data-aos="fade-in" class="uk-flex uk-flex-bottom uk-flex-between uk-margin-small-bottom">
@@ -564,13 +564,13 @@
                     <figcaption class="uk-flex uk-flex-bottom uk-flex-between uk-margin-small-bottom">
                       <div class="object-title">Video from the Rover Camera</div>
                       <a class="object-action uk-button uk-button-default"
-                        href="https://www.youtube.com/watch?v=BTq9jtTg89E&feature=emb_logo&ab_channel=Apollo15-ApolloFlightJournal"
+                        href="https://apollo15hub.org/items/show/226"
                         target="_blank">
                         <!--<span uk-icon="link"></span>-->
                         view
                       </a>
                     </figcaption>
-                    <iframe class="uk-width-1-1" src="https://www.youtube.com/embed/BTq9jtTg89E" frameborder="0"
+                    <iframe class="uk-width-1-1" src="https://apollo15hub.org/files/original/cfec59875096a5ba4ed0d92110db334e.mp4" frameborder="0"
                       allowfullscreen></iframe>
                 </div>
                 <p data-aos="fade-in">
@@ -814,64 +814,67 @@
               </p>
 
               <p data-aos="fade-in">
-              Apollo 15 - Apollo Flight Journal (2019) Apollo 15 - 16-mm magazine 1246-EE. [Online]. Available from: https://www.youtube.com/watch?v=BTq9jtTg89E
+              Jones, Eric M. and Ken Glover. (2019) "View from the Lunar Rover with Commander David Scott". <em>Apollo Lunar Surface Journal</em>. Available from: https://apollo15hub.org/items/show/226
               </p>
               <p data-aos="fade-in">
-              NASA (1971) Launch: ap15-71-HC-977HR · The Apollo 15 Learning Hub. [Online]. 1971. Available from: https://apollo15hub.org/items/show/68
+              NASA (1970i) Apollo in Antarctica (I) · The Apollo 15 Learning Hub. 9 January 1970. Available from: https://apollo15hub.org/items/show/175
               </p>
               <p data-aos="fade-in">
-              NASA (1971a) Aeronautics and Space Report · The Apollo 15 Learning Hub. [Online]. 1971. Available from: https://apollo15hub.org/items/show/176
+              NASA (1971) Apollo 15 Mission Report. Manned Spacecraft Center, Houston, TX. December 1971. Available from: https://www.hq.nasa.gov/alsj/a15/ap15mr.pdf
               </p>
               <p data-aos="fade-in">
-              NASA (1971b) Apollo 15 Flight Data File: CSM Launch Checklist (S/N 1002). [Online]. Available from: https://readux.io/volume/tz844/page/tz844_004.jpg
+              NASA (1971a) Aeronautics and Space Report · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/176
               </p>
               <p data-aos="fade-in">
-              NASA (1971c) Apollo 15 Flight Data File: CSM Lunar Landmark Maps. [Online]. Available from: https://readux.io/volume/spj23/page/spj23_00000029.jpg
+              NASA (1971b) Apollo 15 Flight Data File: CSM Launch Checklist (S/N 1002). Available from: https://readux.io/volume/tz844/page/tz844_004.jpg
               </p>
               <p data-aos="fade-in">
-              NASA (1971d) Apollo 15 Flight Data File: CSM Lunar Landmark Maps. [Online]. Available from: https://readux.io/volume/spj23/page/spj23_00000030.jpg
+              NASA (1971c) Apollo 15 Flight Data File: CSM Lunar Landmark Maps. Available from: https://readux.io/volume/spj23/page/spj23_00000029.jpg
               </p>
               <p data-aos="fade-in">
-              NASA (1971e) Apollo 15 Flight Data File: Cue Cards with Handwriting, p. 7. [Online]. 1971. Readux. Available from: https://readux.ecds.emory.edu/books/readux:v016s/pages/readux:v01fr/
+              NASA (1971d) Apollo 15 Flight Data File: CSM Lunar Landmark Maps. Available from: https://readux.io/volume/spj23/page/spj23_00000030.jpg
               </p>
               <p data-aos="fade-in">
-              NASA (1971f) Apollo 15 Flight Data File: Cue Cards with Handwriting, p. 23. [Online]. 1971. Readux. Available from: https://readux.ecds.emory.edu/books/readux:v016s/pages/readux:v0202/
+              NASA (1971e) Apollo 15 Flight Data File: Cue Cards with Handwriting, p. 7. 1971. Readux. Available from: https://readux.ecds.emory.edu/books/readux:v016s/pages/readux:v01fr/
               </p>
               <p data-aos="fade-in">
-              NASA (1971g) Apollo 15 Flight Data File: Flight Plan Vol. 1, p. 114. [Online]. 1971. Readux. Available from: https://readux.ecds.emory.edu/books/readux:tsnhf/pages/readux:tssfk/
+              NASA (1971f) Apollo 15 Flight Data File: Cue Cards with Handwriting, p. 23. 1971. Readux. Available from: https://readux.ecds.emory.edu/books/readux:v016s/pages/readux:v0202/
               </p>
               <p data-aos="fade-in">
-              NASA (1971h) Apollo 15 Flight Data File: Lunar Surface Checklist. [Online]. Available from: https://readux.io/volume/v3mrz/page/v3mrz_227.jpg
+              NASA (1971g) Apollo 15 Flight Data File: Flight Plan Vol. 1, p. 114. 1971. Readux. Available from: https://readux.ecds.emory.edu/books/readux:tsnhf/pages/readux:tssfk/
               </p>
               <p data-aos="fade-in">
-              NASA (1970i) Apollo in Antarctica (I) · The Apollo 15 Learning Hub. [Online]. 9 January 1970. Available from: https://apollo15hub.org/items/show/175
+              NASA (1971h) Apollo 15 Flight Data File: Lunar Surface Checklist. Available from: https://readux.io/volume/v3mrz/page/v3mrz_227.jpg
               </p>
               <p data-aos="fade-in">
-              NASA (1971j) EVA 1: AS15-86-11593HR · The Apollo 15 Learning Hub. [Online]. 1971. Available from: https://apollo15hub.org/items/show/25
+              NASA (1971i) EVA 2: as15-85-11470HR · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/86
               </p>
               <p data-aos="fade-in">
-              NASA (1971k) EVA 2: as15-85-11470HR · The Apollo 15 Learning Hub. [Online]. 1971. Available from: https://apollo15hub.org/items/show/86
+              NASA (1971j) EVA 1: AS15-86-11593HR · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/25
               </p>
               <p data-aos="fade-in">
-              NASA (1971) EVA 2: AS15-86-11673HR · The Apollo 15 Learning Hub. [Online]. 1971. Available from: https://apollo15hub.org/items/show/62
+              NASA (1971k) EVA 2: AS15-86-11673HR · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/62
               </P>
               <p data-aos="fade-in">
-              NASA (1971l) EVA 3: Hammer and feather experiment · The Apollo 15 Learning Hub. [Online]. 1971. Available from: https://apollo15hub.org/items/show/11
+              NASA (1971l) EVA 3: Hammer and feather experiment · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/11
               </p>
               <p data-aos="fade-in">
-              NASA (1971m) Film Cassette Retrieval: ap15-S71-43202HR · The Apollo 15 Learning Hub. [Online]. 1971. Available from: https://apollo15hub.org/items/show/43
+              NASA (1971m) Film Cassette Retrieval: ap15-S71-43202HR · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/43
               </p>
               <p data-aos="fade-in">
-              NASA (1971n) LM Interior Forward Panels Detailed · The Apollo 15 Learning Hub. [Online]. 1971. Available from: https://apollo15hub.org/items/show/147
+              NASA (1971n) LM Interior Forward Panels Detailed · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/147
               </p>
               <p data-aos="fade-in">
-              NASA (1971o) Post-Flight: ap15-S71-43203 · The Apollo 15 Learning Hub. [Online]. 1971. Available from: https://apollo15hub.org/items/show/88
+              NASA (1971o) Post-Flight: ap15-S71-43203 · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/88
               </p>
               <p data-aos="fade-in">
-              NASA (1971p) Splashdown: ap15-S71-43543HR · The Apollo 15 Learning Hub. [Online]. 1971. Available from: https://apollo15hub.org/items/show/78
+              NASA (1971p) Splashdown: ap15-S71-43543HR · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/78
               </p>
               <p data-aos="fade-in">
-              NASA (1971q) Touchdown - landing video - test · The Apollo 15 Learning Hub. [Online]. 1971. Available from: https://apollo15hub.org/items/show/193
+              NASA (1971q) Touchdown - landing video - test · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/193
+              </p>
+              <p data-aos="fade-in">
+              NASA (1971r) Launch: ap15-71-HC-977HR · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/68
               </p>
               <p data-aos="fade-in">
               Scott, D. (1970) NASA Antarctic Visit.p.8.
@@ -880,10 +883,10 @@
               Scott, D. (1973) What Is It Like to Walk on the Moon? National Geographic.144 pp.326–329.
               </p>
               <p data-aos="fade-in">
-              Scott, D. (2008) Foreword to How Apollo Flew to the Moon by W. David Woods 1st Edition (2008). Springer-Praxis. 1st edition. [Online]. 2008. Available from: http://www.hafttm.com/index.htm
+              Scott, D. (2008) Foreword to How Apollo Flew to the Moon by W. David Woods 1st Edition (2008). Springer-Praxis. 1st edition. 2008. Available from: http://www.hafttm.com/index.htm
               </p>
               <p data-aos="fade-in">
-              Scott, D. (2011) Foreword to How Apollo Flew to the Moon by W. David Woods 2nd Edition (2011). Springer-Praxis. 2nd edition. [Online]. 2011. Available from: http://www.hafttm.com/index.htm
+              Scott, D. (2011) Foreword to How Apollo Flew to the Moon by W. David Woods 2nd Edition (2011). Springer-Praxis. 2nd edition. 2011. Available from: http://www.hafttm.com/index.htm
               </p>
               <p data-aos="fade-in">
               Scott, D. & Leonov, A. (2004) Two Sides of the Moon: Our Story of the Cold War Space Race. New York, Thomas Dunne Books.
