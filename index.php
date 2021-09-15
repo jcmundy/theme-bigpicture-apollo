@@ -282,8 +282,7 @@
                   src="https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/tz844_004.jpg/full/full/0/default.jpg">
               </div>
               <p data-aos="fade-in">
-                Finally, after everything had been checked and had been found OK, the launch process started at 9:34 AM
-                EST at Cape Canaveral, Florida, only 187 milliseconds off schedule (NASA 1971, Apollo 15 Mission Report).
+                Finally, after everything had been checked and had been found OK, the launch process started at 9:34:00.6 AM EDT at Cape Canaveral, Florida (NASA 1971, 1).
               </p>
               <p data-aos="fade-in">
                 The following photograph shows the moment the Saturn V rocket blasted off from the
@@ -384,11 +383,7 @@
                 them from the CSM to the surface of the Moon.
               </p>
               <p data-aos="fade-in">
-                They flew their Lunar Module to a perfect landing at 6:16 pm EST July 30 at Hadley Rille about 1,500
-                feet north and east of the targeted landing point. They touched down with two of the Lunar Module’s
-                landing pads just over the edge of a small crater that the astronauts had not been able to see through
-                the dust raised by their rocket engine, causing the lunar module to tilt. But they were stable enough to
-                continue their mission (NASA 1971, Apollo 15 Mission Report). Landing approach over the Apennine Range - one of the highest on the moon - was at an angle of 26 degrees, the steepest approach yet used in Apollo missions (NASA 1971, Apollo 15 Mission Report).
+                They flew their Lunar Module to a perfect landing 104 hours, 42 minutes, and 29 seconds after launch (6:16 pm EDT on July 30) at Hadley Rille about 550 meters (about 1800 feet) north and slightly east of the targeted landing point. They touched down with two of the Lunar Module’s landing pads just over the edge of a small crater, causing the lunar module to tilt (NASA 1971, 62-63). But they were stable enough to continue their mission. They landed in the Apennine Range, a high, sloped area that permitted diverse opportunities for geological exploration and sampling (NASA 1971, 14).
               </p>
               <p data-aos="fade-in">
                 The following cue card, which is also part of the Apollo 15 Learning Hub’s collection, contains
@@ -469,11 +464,7 @@
                   the Moon’s Surface
                 </h2>
                 <p data-aos="fade-in">
-                  After they had taken some rest following their landing on the Moon, Scott and Irwin unfolded and
-                  deployed their Lunar Roving Vehicle (LRV) or simply "lunar rover" the following day. Specially designed for operation at 1/6 Earth’s gravity, it could carry 180 pounds of astronauts, gear and samples on the Moon (which would weigh 1,080 pounds on
-                  Earth), more than twice the rover’s weight, but risked collapse if accidentally sat upon while still on
-                  Earth. Though its range was 40 miles at speeds up to 11 mph, the astronauts were restricted to an area 3
-                  miles from the lunar module so they could walk back if the rover broke down (NASA 1971, Apollo 15 Mission Report).
+                  After they had taken some rest following their landing on the Moon, Scott and Irwin unfolded and deployed their Lunar Roving Vehicle (LRV) or simply "lunar rover" the following day.  Specially designed for operation at 1/6 Earth’s gravity, it could carry 180 pounds of astronauts, gear and samples on the Moon (which would weigh 1,080 pounds on Earth), more than twice the rover’s weight (NASA 1971, 248). It greatly expanded the amount of ground the Astronauts could traverse during their extravehicular activities (EVAs).
                   <blockquote data-aos="fade-in">
                   We quickly discover, locomotion on the moon has its own peculiar restrictions. At one-sixth of earths gravity, we weigh only a sixth our normal poundage. Our gait quickly evolves into a rhythmic, bouncing motion that possesses all the lightness and ease of strolling on a trampoline (Scott, 1973:p.327).
                   </blockquote>
@@ -490,12 +481,7 @@
   	              Among the 30 original astronauts, none (0) had any formal geology training - NASA had to teach pilots how to be proficient planetary field geologists; adding science to engineering as a primary discipline. Again, the NASA training was superb; and because of their previous spaceflight experience, the mission Commanders had a major role in planning the training. And after many hours of practical and effective geology training (classroom, laboratory, and field), the results justified the selection and training process (Scott, 2011:p.XXX)
                   </blockquote>
                 <p data-aos="fade-in">
-                  The Apollo 15 mission was the first one that provided astronauts with a vehicle to facilitate movement across the landscape of the Moon.
-                  Having the lunar rover allowed Scott and Irwin to complete over 18 hours of exploration and to travel
-                  17.5 miles on the Moon’s surface during the 3 days (from July 31 to August 2) they spent on the Moon.
-                  Also, the two astronauts were able to collect more than 170 pounds of lunar samples and to provide
-                  extensive oral descriptions and photographic documentation of geologic features in the vicinity of the
-                  landing site (NASA 1971, Apollo 15 Mission Report).
+                  The Apollo 15 mission was the first one that provided astronauts with a vehicle to facilitate movement across the landscape of the Moon (NASA 1971, 100). Having the lunar rover allowed Scott and Irwin to complete over 18 hours of exploration and to travel 27.9 kilometers (just over 17 miles) on the Moon’s surface during the three days (from July 31 to August 2) they spent on the Moon. The two astronauts were also able to collect approximately 170 pounds of lunar samples and to provide extensive oral descriptions and photographic documentation of geologic features in the vicinity of the landing site (NASA 1971, 2-3).
                 </p>
                 <p data-aos="fade-in">
                   The following pictures show photos and descriptions of specific types of rocks that the astronauts were supposed to look for while on their EVAs on the surface of the Moon. The photos were part of the Lunar Surface Checklist booklet that the astronauts had with them in the LM.
@@ -579,20 +565,13 @@
                     Moon.
                 </p>
                 <p data-aos="fade-in">
-                    One of the most important aspects of the Apollo 15 mission was the study of the Moon’s geology, which
-                    was still not well understood at the time of the mission. Astronauts Scott and Irwin collected several
-                    samples during their EVAs. Among the rocks they collected was one that was later dubbed the “Genesis
-                    Rock.” It was a very pure specimen of anorthosite, a type of rock believed to have floated like
-                    icebergs in the magma oceans that constituted the Moon’s outer layers early in its history. It was
-                    found to be more than 4 billion years old and was the most ancient whole rock recovered from the lunar
-                    surface to that point. The prospect of finding such rocks was one reason the landing site had been
-                    selected (NASA 1971, Apollo 15 Mission Report).
+                    One of the most important aspects of the Apollo 15 mission was the study of the Moon’s geology, which was still not well understood at the time of the mission. Astronauts Scott and Irwin collected several samples during their EVAs. Among the rocks they collected was one that was later dubbed the “Genesis Rock.” It was a very pure specimen of anorthosite, a type of rock believed to have been a principal constituent of the moon’s primordial crust. Estimates of the sample’s age identify it as roughly 4.1 billion years old (Scott and Leonov 2004, 308). The rock would later be the analyzed in numerous scientific studies over the following years (Meyer 2011).
                 </p>
                 <p data-aos="fade-in">
                     Another important objective of the mission was the experiments conducted on the surface of the Moon with the help of the Apollo Lunar Surface Experiments Package (ALSEP). The ALSEP consisted of a set of scientific instruments placed at the landing site by the astronauts.  One of the components of the ALSEP, the Solar-Wind Spectrometer, measured the fluxes and spectra of the electrons and protons that emanate from the Sun and reach the lunar surface (NASA, 1971i). The ALSEP instruments were arrayed around a central station which supplied power to run the instruments and communications so data collected by the experiments could be relayed to Earth.
                 </p>
                 <p data-aos="fade-in">
-                    Data collected from the instruments were converted into a telemetry format and transmitted to Earth. The ALSEP system and instruments were controlled by commands from Earth (NASA 1971, Apollo 15 Mission Report).
+                    Data collected from the instruments were converted into a telemetry format and transmitted to Earth. The ALSEP system and instruments were controlled by commands from Earth (NASA 1971, 19-21).
                 </p>
                 <div class="margin-v2">
                   <figcaption data-aos="fade-in" class="uk-flex uk-flex-bottom uk-flex-between uk-margin-small-bottom">
@@ -619,10 +598,7 @@
                     src="https://apollo15hub.org/files/original/463a2593a7fa9dcad86e118bb9c43a22.jpg" />
                 </div>
                 <p data-aos="fade-in">
-                    At the end of the final EVA, Scott performed a televised sequel to the experiment Galileo is purported
-                    to have conducted at the Tower of Pisa. He dropped a hammer and a feather together in the lunar vacuum
-                    and observed that they struck the ground at the same time (NASA 1971, Apollo 15 Mission Report). Commander Scott describes how he conducted
-                    the experiment:
+                    At the end of the final EVA, Scott performed a televised sequel to the experiment Galileo is purported to have conducted at the Tower of Pisa. He dropped a hammer and a feather together in the lunar vacuum and observed that they struck the ground at the same time. Commander Scott describes how he conducted the experiment:
                   <blockquote data-aos="fade-in">
                       I wanted to prove the law, proposed more than three centuries before by the Italian astronomer and
                       mathematician Galileo Galilei, that all objects fall with equal speed in a vacuum. Taking into one
@@ -654,12 +630,7 @@
               <h2 data-aos="fade-in" uk-sticky="offset: 80;" uk-sticky-below class="uk-margin-remove uk-ap-heading">Sub
                 Satellite</h2>
               <p data-aos="fade-in">
-                On August 2, the Lunar Module fired its ascent stage engine and lifted off the Moon for its rendezvous with
-                Command Module, or CM, Endeavor. For the first time, the lunar liftoff was seen on Earth via the LRV
-                television camera. The two spacecrafts docked as Endeavor began its 50th lunar orbit. On the 74th
-                revolution, the Particles and Fields sub satellite was spring-launched from the service module bay. On the
-                next revolution, on August 4, a two-minute, 21-second propulsion system burn put Apollo 15 on its path back to
-                Earth (NASA 1971, Apollo 15 Mission Report).
+                On August 2, the Lunar Module fired its ascent stage engine and lifted off the Moon for its rendezvous with Command Module, or CM, Endeavor. For the first time, the lunar liftoff was seen on Earth via the LRV television camera. The two spacecrafts docked as Endeavor began its 50th lunar orbit. On the 74th revolution, the Particles and Fields sub satellite was spring-launched from the service module bay (NASA 1971, 13).
               </p>
               <p data-aos="fade-in">
               This photo shows one page of the flight plan that was used by the crew of Apollo 15 onboard the CSM with handwritten annotations by the crew. It delineates one hour of the schedule that the crew followed after Commander Scott and James Irwin had returned back to the CSM after their lunar landing (NASA, 1971g:p.114).
@@ -712,10 +683,7 @@
                   src="https://apollo15hub.org/files/original/b0c3a15e196c5ebebd0acf9b89534de8.jpg" />
               </div>
               <p data-aos="fade-in">
-                This small satellite was designed around a hexagonal structure with a diameter of 14 inches that was
-                equipped with three instrument booms. The power supply came from solar panels and chemical batteries.
-                The instruments measured the strength and direction of interplanetary and terrestrial magnetic fields,
-                detected variations in the lunar gravity field, and measured proton and electron flux (NASA 1971, Apollo 15 Mission Report).
+                This small satellite was designed around a hexagonal structure 30 inches in length that was equipped with three instrument booms. The power supply came from solar panels and chemical batteries. The instruments measured the strength and direction of interplanetary and terrestrial magnetic fields, detected variations in the lunar gravity field, and measured proton and electron flux (NASA 1971, 257).
               </p>
               </section> <!-- end trigger 3-->
               <section id="trigger4">
@@ -758,9 +726,7 @@
                 </div>
               </div>
               <p data-aos="fade-in">
-                At approximately 4:46 p.m. EDT on August 7, Apollo 15 splashed down in the Pacific Ocean, about 335 miles
-                north of Honolulu, ending a flight of 12 days, seven hours. The crew was picked up by helicopters from
-                the prime recovery ship, the USS Okinawa, 6.32 miles from the targeted touchdown point (NASA 1971, Apollo 15 Mission Report).
+                At approximately 4:46 p.m. EDT on August 7, Apollo 15 splashed down in the Pacific Ocean north of Hawaii, about  476 miles away from Honolulu, ending a flight of 12 days, seven hours.  The USS Okinawa, a helicopter carrier, was supported the recovery efforts, allowing the astronauts to come back home (NASA 1971, 154).
               </p>
               <div class="margin-v2">
                 <figcaption data-aos="fade-in" class="uk-flex uk-flex-bottom uk-flex-between uk-margin-small-bottom">
@@ -815,6 +781,9 @@
 
               <p data-aos="fade-in">
               Jones, Eric M. and Ken Glover. (2019) "View from the Lunar Rover with Commander David Scott". <em>Apollo Lunar Surface Journal</em>. Available from: https://apollo15hub.org/items/show/226
+              </p>
+              <p data-aos="fade-in">
+              Meyer, C. (2011) 15415: Ferroan Anorthosite. <em>Lunar Sample Compendium</em>. Available from: https://www.hq.nasa.gov/alsj/a15/LunarSampleCompendium15415.pdf
               </p>
               <p data-aos="fade-in">
               NASA (1970i) Apollo in Antarctica (I) · The Apollo 15 Learning Hub. 9 January 1970. Available from: https://apollo15hub.org/items/show/175
