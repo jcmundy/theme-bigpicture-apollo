@@ -816,34 +816,34 @@
               NASA (1971h) Apollo 15 Flight Data File: Lunar Surface Checklist. Available from: https://readux.io/volume/v3mrz/page/v3mrz_227.jpg
               </p>
               <p data-aos="fade-in">
-              NASA (1971i) EVA 2: as15-85-11470HR · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/86
+              NASA (1971i) Testing the Lunar Rover · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/86
               </p>
               <p data-aos="fade-in">
-              NASA (1971j) EVA 1: AS15-86-11593HR · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/25
+              NASA (1971j) Solar Wind Spectrometer · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/25
               </p>
               <p data-aos="fade-in">
-              NASA (1971k) EVA 2: AS15-86-11673HR · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/62
+              NASA (1971k) Genesis Rock Discovery · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/62
               </P>
               <p data-aos="fade-in">
               NASA (1971l) EVA 3: Hammer and feather experiment · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/11
               </p>
               <p data-aos="fade-in">
-              NASA (1971m) Film Cassette Retrieval: ap15-S71-43202HR · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/43
+              NASA (1971m) Worden’s Spacewalk · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/43
               </p>
               <p data-aos="fade-in">
               NASA (1971n) LM Interior Forward Panels Detailed · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/147
               </p>
               <p data-aos="fade-in">
-              NASA (1971o) Post-Flight: ap15-S71-43203 · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/88
+              NASA (1971o) First Looks at Lunar Samples · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/88
               </p>
               <p data-aos="fade-in">
-              NASA (1971p) Splashdown: ap15-S71-43543HR · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/78
+              NASA (1971p) The Moment of Splashdown · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/78
               </p>
               <p data-aos="fade-in">
               NASA (1971q) Touchdown - landing video - test · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/193
               </p>
               <p data-aos="fade-in">
-              NASA (1971r) Launch: ap15-71-HC-977HR · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/68
+              NASA (1971r) Launch Closeup 1 · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/68
               </p>
               <p data-aos="fade-in">
               Scott, D. (1970) NASA Antarctic Visit.p.8.
