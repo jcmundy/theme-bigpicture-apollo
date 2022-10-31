@@ -83,12 +83,12 @@
         <div class="ap-site-logo-container uk-container uk-margin-large">
 
           <div class="uk-child-width-1-3@m grid-collapse" uk-grid>
-            <a href="#flight-path" class="ap-home-card ap-z-index">
+            <a href="/events" class="ap-home-card ap-z-index">
               <div class="uk-inline a15-card ">
-                <img src="/themes/bigpicture/images/flight-path-1.jpg" alt="">
+                <img src="/themes/bigpicture/images/Events.png" alt="">
                 <!-- <div class="uk-overlay-primary uk-position-cover"></div> -->
                 <div class="uk-overlay uk-overlay-default uk-position-bottom a15-overlay">
-                  <p>Flight Path</p>
+                  <p>Events</p>
                 </div>
               </div>
             </a>
@@ -273,13 +273,13 @@
                 <figcaption data-aos="fade-in" class="uk-flex uk-flex-bottom uk-flex-between uk-margin-small-bottom">
                   <div class="object-title">CSM Launch Checklist (NASA, 1971b)</div>
                   <a class="object-action uk-button uk-button-default"
-                    href="https://readux.io/volume/tz844/page/tz844_004.jpg" target="_blank">
+                    href="https://readux.io/volume/tz844/page/tz844_004.tif" target="_blank">
                     <!--<span uk-icon="link"></span>-->
                     view
                   </a>
                 </figcaption>
                 <img class="margin-v2" data-aos="fade-in" data-aos-delay="0"
-                  src="https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/tz844_004.jpg/full/full/0/default.jpg">
+                  src="https://iip.readux.io/iiif/2/tz844_004.tif/full/full/0/default.jpg">
               </div>
               <p data-aos="fade-in">
                 Finally, after everything had been checked and had been found OK, the launch process started at 9:34:00.6 AM EDT at Cape Canaveral, Florida (NASA 1971, 1).
@@ -319,13 +319,13 @@
                 <figcaption class="uk-flex uk-flex-bottom uk-flex-between uk-margin-small-bottom">
                   <div class="object-title">Cue Card with Mission Abort Steps (NASA, 1971e)</div>
                   <a class="object-action uk-button uk-button-default"
-                    href="https://readux.io/volume/v016s/page/v016s_04F.jpg" target="_blank">
+                    href="https://readux.io/volume/v016s/page/v016s_04F.tif" target="_blank">
                     <!--<span uk-icon="link"></span>-->
                     view
                   </a>
                 </figcaption>
                 <img class="margin-v2" data-aos="fade-in" data-aos-delay="0"
-                  src="https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/v016s_04F.jpg/full/full/0/default.jpg">
+                  src="https://iip.readux.io/iiif/2/v016s_04F.tif/full/full/0/default.jpg">
               </div>
               <p data-aos="fade-in">
                 The following is a detailed view of the forward panels inside the Lunar Module (LM). We can see the Velcro
@@ -351,15 +351,15 @@
               <div class="margin-v2" data-aos="fade-in">
                 <figcaption class="uk-flex uk-flex-bottom uk-flex-between uk-margin-small-bottom">
                   <div class="object-title"><em style="color:white;">Loss of Comm</em> Cue Card</div>
-                  <a class="object-action uk-button uk-button-default" href="https://readux.io/volume/v016s/page/v016s_01R.jpg"
+                  <a class="object-action uk-button uk-button-default" href="https://readux.io/volume/v016s/page/v016s_01R.tif"
                     target="_blank">
                     <!--<span uk-icon="link"></span>-->
                     view
                   </a>
                 </figcaption>
-                <a href="https://readux.io/volume/v016s/page/v016s_01R.jpg">
+                <a href="https://readux.io/volume/v016s/page/v016s_01R.tif">
                   <img class="uk-width-1-1"
-                    src="https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/v016s_01R.jpg/full/full/0/default.jpg">
+                    src="https://iip.readux.io/iiif/2/v016s_01R.tif/full/full/0/default.jpg">
                 </a>
               </div>
               <p data-aos="fade-in">
@@ -394,14 +394,14 @@
                 <figcaption class="uk-flex uk-flex-bottom uk-flex-between uk-margin-small-bottom">
                   <div class="object-title">LM Cue Card with List of Steps for Moon Landing (NASA, 1971f)</div>
                   <a class="object-action uk-button uk-button-default"
-                    href="https://readux.io/volume/v016s/page/v016s_12F.jpg" target="_blank">
+                    href="https://readux.io/volume/v016s/page/v016s_12F.tif" target="_blank">
                     <!--<span uk-icon="link"></span>-->
                     view
                   </a>
                 </figcaption>
-                <a href="https://readux.io/volume/v016s/page/v016s_12F.jpg">
+                <a href="https://readux.io/volume/v016s/page/v016s_12F.tif">
                   <img class="uk-width-1-1"
-                    src="https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/v016s_12F.jpg/full/full/0/default.jpg">
+                    src="https://iip.readux.io/iiif/2/v016s_12F.tif/full/full/0/default.jpg">
                 </a>
               </div>
               <p data-aos="fade-in">
@@ -413,18 +413,18 @@
                 <figcaption class="uk-flex uk-flex-bottom uk-flex-between uk-margin-small-bottom">
                   <div class="object-title">Handwritten Note about the Proclus Crater and Photographs</div>
                   <a class="object-action uk-button uk-button-default"
-                    href="https://readux.io/volume/spj23/page/spj23_00000029.jpg" target="_blank">
+                    href="https://readux.io/volume/spj23/page/spj23_00000029.tif" target="_blank">
                     <!--<span uk-icon="link"></span>-->
                     view
                   </a>
                 </figcaption>
-                <a href="https://readux.io/volume/spj23/page/spj23_00000029.jpg">
+                <a href="https://readux.io/volume/spj23/page/spj23_00000029.tif">
                   <img class="uk-width-1-3" style="padding-left: 1em; padding-right 1em; width: 49% !important;"
-                    src="https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/spj23_00000029.jpg/full/full/0/default.jpg">
+                    src="https://iip.readux.io/iiif/2/spj23_00000029.tif/full/full/0/default.jpg">
                 </a>
-                <a href="https://readux.io/volume/spj23/page/spj23_00000030.jpg">
+                <a href="https://readux.io/volume/spj23/page/spj23_00000030.tif">
                   <img class="uk-width-1-3" style="padding-left: 1em; padding-right 1em; width: 49% !important;"
-                    src="https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/spj23_00000030.jpg/full/full/0/default.jpg">
+                    src="https://iip.readux.io/iiif/2/spj23_00000030.tif/full/full/0/default.jpg">
                 </a>
               </div>
               <p data-aos="fade-in">
@@ -490,36 +490,36 @@
                   <figcaption class="uk-flex uk-flex-bottom uk-flex-between uk-margin-small-bottom">
                     <div class="object-title">Geology Example from the Lunar Surface Checklist</div>
                     <a class="object-action uk-button uk-button-default"
-                      href="https://readux.io/volume/v3mrz/page/v3mrz_227.jpg" target="_blank">
+                      href="https://readux.io/volume/v3mrz/page/v3mrz_227.tif" target="_blank">
                       <!--<span uk-icon="link"></span>-->
                       view
                     </a>
                   </figcaption>
-                  <a href="https://readux.io/volume/v3mrz/page/v3mrz_227.jpg">
+                  <a href="https://readux.io/volume/v3mrz/page/v3mrz_227.tif">
                     <img class="uk-width-1-3" style="padding-left: 1em; padding-right 1em; width: 49% !important;"
-                      src="https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/v3mrz_227.jpg/full/full/0/default.jpg">
+                      src="https://iip.readux.io/iiif/2/v3mrz_227.tif/full/full/0/default.jpg">
                   </a>
-                  <a href="https://readux.io/volume/v3mrz/page/v3mrz_228.jpg">
+                  <a href="https://readux.io/volume/v3mrz/page/v3mrz_228.tif">
                     <img class="uk-width-1-3" style="padding-left: 1em; padding-right 1em; width: 49% !important;"
-                      src="https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/v3mrz_228.jpg/full/full/0/default.jpg">
+                      src="https://iip.readux.io/iiif/2/v3mrz_228.tif/full/full/0/default.jpg">
                   </a>
                 </div>
                 <div class="margin-v2" data-aos="fade-in">
                   <figcaption class="uk-flex uk-flex-bottom uk-flex-between uk-margin-small-bottom">
                     <div class="object-title">Geology Example from the Lunar Surface Checklist</div>
                     <a class="object-action uk-button uk-button-default"
-                      href="https://readux.io/volume/v3mrz/page/v3mrz_235.jpg" target="_blank">
+                      href="https://readux.io/volume/v3mrz/page/v3mrz_235.tif" target="_blank">
                       <!--<span uk-icon="link"></span>-->
                       view
                     </a>
                   </figcaption>
-                  <a href="https://readux.io/volume/v3mrz/page/v3mrz_235.jpg">
+                  <a href="https://readux.io/volume/v3mrz/page/v3mrz_235.tif">
                     <img class="uk-width-1-3" style="padding-left: 1em; padding-right 1em; width: 49% !important;"
-                      src="https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/v3mrz_235.jpg/full/full/0/default.jpg">
+                      src="https://iip.readux.io/iiif/2/v3mrz_235.tif/full/full/0/default.jpg">
                   </a>
-                  <a href="https://readux.io/volume/v3mrz/page/v3mrz_236.jpg">
+                  <a href="https://readux.io/volume/v3mrz/page/v3mrz_236.tif">
                     <img class="uk-width-1-3" style="padding-left: 1em; padding-right 1em; width: 49% !important;"
-                      src="https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/v3mrz_236.jpg/full/full/0/default.jpg">
+                      src="https://iip.readux.io/iiif/2/v3mrz_236.tif/full/full/0/default.jpg">
                   </a>
                 </div>
                 <p data-aos="fade-in">
@@ -639,12 +639,12 @@
                 <figcaption data-aos="fade-in" class="uk-flex uk-flex-bottom uk-flex-between uk-margin-small-bottom">
                   <div class="object-title">CSM Flight Plan</div>
                   <a class="object-action uk-button uk-button-default"
-                    href="https://readux.io/volume/tsnhf/page/tsnhf_00000113.jpg" target="_blank">
+                    href="https://readux.io/volume/tsnhf/page/tsnhf_00000113.tif" target="_blank">
                     <!--<span uk-icon="link"></span>--> view </a>
                 </figcaption>
-                <a data-aos="fade-in" href="https://readux.io/volume/tsnhf/page/tsnhf_00000113.jpg">
+                <a data-aos="fade-in" href="https://readux.io/volume/tsnhf/page/tsnhf_00000113.tif">
                   <img class="uk-width-1-1"
-                    src="https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/tsnhf_00000113.jpg/full/full/0/default.jpg">
+                    src="https://iip.readux.io/iiif/2/tsnhf_00000113.tif/full/full/0/default.jpg">
                 </a>
               </div>
               <p data-aos="fade-in">
@@ -795,25 +795,25 @@
               NASA (1971a) Aeronautics and Space Report · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/176
               </p>
               <p data-aos="fade-in">
-              NASA (1971b) Apollo 15 Flight Data File: CSM Launch Checklist (S/N 1002). Available from: https://readux.io/volume/tz844/page/tz844_004.jpg
+              NASA (1971b) Apollo 15 Flight Data File: CSM Launch Checklist (S/N 1002). Available from: https://readux.io/volume/tz844/page/tz844_004.tif
               </p>
               <p data-aos="fade-in">
-              NASA (1971c) Apollo 15 Flight Data File: CSM Lunar Landmark Maps. Available from: https://readux.io/volume/spj23/page/spj23_00000029.jpg
+              NASA (1971c) Apollo 15 Flight Data File: CSM Lunar Landmark Maps. Available from: https://readux.io/volume/spj23/page/spj23_00000029.tif
               </p>
               <p data-aos="fade-in">
-              NASA (1971d) Apollo 15 Flight Data File: CSM Lunar Landmark Maps. Available from: https://readux.io/volume/spj23/page/spj23_00000030.jpg
+              NASA (1971d) Apollo 15 Flight Data File: CSM Lunar Landmark Maps. Available from: https://readux.io/volume/spj23/page/spj23_00000030.tif
               </p>
               <p data-aos="fade-in">
-              NASA (1971e) Apollo 15 Flight Data File: Cue Cards with Handwriting, p. 7. 1971. Readux. Available from: https://readux.ecds.emory.edu/books/readux:v016s/pages/readux:v01fr/
+              NASA (1971e) Apollo 15 Flight Data File: Cue Cards with Handwriting, p. 7. 1971. Readux. Available from: https://readux.io/volume/v016s/page/v016s_04F.tif
               </p>
               <p data-aos="fade-in">
-              NASA (1971f) Apollo 15 Flight Data File: Cue Cards with Handwriting, p. 23. 1971. Readux. Available from: https://readux.ecds.emory.edu/books/readux:v016s/pages/readux:v0202/
+              NASA (1971f) Apollo 15 Flight Data File: Cue Cards with Handwriting, p. 23. 1971. Readux. Available from: https://readux.io/volume/v016s/page/v016s_12F.tif
               </p>
               <p data-aos="fade-in">
-              NASA (1971g) Apollo 15 Flight Data File: Flight Plan Vol. 1, p. 114. 1971. Readux. Available from: https://readux.ecds.emory.edu/books/readux:tsnhf/pages/readux:tssfk/
+              NASA (1971g) Apollo 15 Flight Data File: Flight Plan Vol. 1, p. 114. 1971. Readux. Available from: https://readux.io/volume/tsnhf/page/tsnhf_00000113.tif
               </p>
               <p data-aos="fade-in">
-              NASA (1971h) Apollo 15 Flight Data File: Lunar Surface Checklist. Available from: https://readux.io/volume/v3mrz/page/v3mrz_227.jpg
+              NASA (1971h) Apollo 15 Flight Data File: Lunar Surface Checklist. Available from: https://readux.io/volume/v3mrz/page/v3mrz_227.tif
               </p>
               <p data-aos="fade-in">
               NASA (1971i) Testing the Lunar Rover · The Apollo 15 Learning Hub. 1971. Available from: https://apollo15hub.org/items/show/86
@@ -879,7 +879,7 @@
                   href="https://ecds.emory.edu/" class="ap-inline-link">Emory Center for Digital Scholarship. </a>
                   Thank you to Dina Thornton for the Command Module and Lunar Module graphics.
               </p>
-              <a href="https://ecds.emory.edu/" class=""><img class="margin-v2" data-aos="fade-in" width="300px"
+              <a href="https://ecds.emory.edu/" class=""><img class="margin-v2" data-aos="fade-in" width="450px"
                   src="/themes/bigpicture/images/lits-ecds-hz-grey.svg"></a>
             </section>
 
