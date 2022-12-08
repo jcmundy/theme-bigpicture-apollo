@@ -193,6 +193,9 @@
                 class="uk-margin-remove uk-ap-heading">
                 The Apollo 15 Learning Hub</h2>
               <p data-aos="fade-in">
+                <a href="/spanish-version"><button style="border-radius:10px;background-color:#f9df58;color:black;">Lea in español</button></a>
+              </p>
+              <p data-aos="fade-in">
                 The Apollo 15 Learning Hub is a project in the Emory Center for Digital Scholarship that has as its
                 mission to assemble, preserve, and make available primary source records of Apollo 15 for research,
                 education, and preservation as an example of a unique human endeavor. The Hub offers access to a digital
