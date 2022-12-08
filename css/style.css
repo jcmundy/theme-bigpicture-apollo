@@ -1299,7 +1299,7 @@
     display: inline-block;
   }
 
-  #langlink {
+  button.langlink {
     border-radius: 10px;
     background-color: #f9df58;
     color: black;
