@@ -210,3 +210,10 @@ var sticky = UIkit.sticky("#navbar", {
   clsactive: "",
   clsinactive: ".uk-invisible"
 });
+
+// Start video in fullscreen will change to new documentary
+const video = document.querySelector("iframe[src='https://player.vimeo.com/video/497302349?h=e5d6609cfd']")
+if (video) {
+  const player = new Vimeo.Player(video);
+  player.on("play", () => player.element.requestFullscreen());
+}

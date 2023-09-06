@@ -36,7 +36,7 @@
                 <li><a class="ap-menu-item"
                     href="https://readux.io/collection/apollo-15/">Data
                     File</a></li>
-                <li><a class="ap-menu-item" href="https://apollo15hub.org/exhibit-media">Exhibition</a></li>
+                <li><a class="ap-menu-item" href="https://apollo15hub.org/exhibit-media">Explore the Mission</a></li>
                 <li><a class="ap-menu-item" href="https://apollo15hub.org/lunarmodule">Inside the Ship</a></li>
                 <li><a class="ap-menu-item" href="https://apollo15hub.org/about">About</a></li>
               </ul>
@@ -58,7 +58,7 @@
               <li><a class="ap-menu-item" href="#flight-path">Flight Path</a></li>
               <li><a class="ap-menu-item"
                   href="https://readux.io/collection/apollo-15/">Data File</a></li>
-              <li><a class="ap-menu-item" href="https://apollo15hub.org/exhibit-media">Exhibition</a></li>
+              <li><a class="ap-menu-item" href="https://apollo15hub.org/exhibit-media">Explore the Mission</a></li>
               <li><a class="ap-menu-item" href="https://apollo15hub.org/lunarmodule">Inside the Ship</a></li>
               <li><a class="ap-menu-item" href="https://apollo15hub.org/about">About</a></li>
             </ul>
@@ -177,7 +177,7 @@
                   <li><a class="uk-text-capitalize"
                       href="https://readux.io/collection/apollo-15/">Data File</a>
                   </li>
-                  <li><a class="uk-text-capitalize" href="https://apollo15hub.org/exhibit-media">Exhibition</a></li>
+                  <li><a class="uk-text-capitalize" href="https://apollo15hub.org/exhibit-media">Explore the Mission</a></li>
                 </ul>
               </div>
               <div class="uk-navbar-right uk-visible@m" id="navbar-logo">
