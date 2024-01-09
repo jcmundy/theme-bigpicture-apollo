@@ -491,3 +491,20 @@ blockquote {
 #navbar {
   height: 80px;
 }
+
+/*Styles for film launch*/
+#apollo-film {
+    width:100%;
+  }
+
+.ap-home-card-film {
+  filter: grayscale(100%);
+  filter: brightness(100%);
+}
+
+@media screen and (min-width:960px){
+  #apollo-film {
+  width:50%;
+  }
+}
+/*End of film launch styles*/
