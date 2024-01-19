@@ -32,7 +32,7 @@
           <div id="offcanvas-nav" uk-offcanvas="overlay: true">
             <div class="uk-offcanvas-bar">
               <ul class="uk-nav uk-nav-default">
-                <li><a class="ap-menu-item" href="https://film.apollo15hub.org/">Apollo 15 Film</a></li>
+                <li><a class="ap-menu-item" href="https://film.apollo15hub.org/">Galileo’s Moon<br>(Apollo 15 Film)</a></li>
                 <li><a class="ap-menu-item" href="#flight-path">Flight Path</a></li>
                 <li><a class="ap-menu-item"
                     href="https://readux.io/collection/apollo-15/">Data
@@ -56,7 +56,7 @@
           </div>
           <div class="uk-navbar-right uk-visible@m">
             <ul class="uk-navbar-nav">
-              <li><a class="ap-menu-item" href="https://film.apollo15hub.org/">Apollo 15 Film</a></li>
+              <li><a class="ap-menu-item" href="https://film.apollo15hub.org/">Galileo’s Moon<br>(Apollo 15 Film)</a></li>
               <li><a class="ap-menu-item" href="#flight-path">Flight Path</a></li>
               <li><a class="ap-menu-item"
                   href="https://readux.io/collection/apollo-15/">Data File</a></li>
@@ -90,7 +90,7 @@
 
             <a href="https://film.apollo15hub.org/" class="ap-home-card-film ap-z-index">
               <div id="apollo-film" class="uk-inline a15-card ">
-                <img src="https://apollo15hub.org/themes/bigpicture/images/apollofilmimage.jpg" alt="">
+                <img src="https://apollo15hub.org/themes/bigpicture/images/apollofilmimage.jpg" alt="poster for the film Galileo's Moon">
                 <!-- <div class="uk-overlay-primary uk-position-cover"></div> -->
                 <div class="uk-overlay uk-overlay-default uk-position-bottom a15-overlay">
                   <p>Apollo 15 Film</p>
@@ -960,5 +960,6 @@
 <script src="https://apollo15hub.org/themes/bigpicture/js/index.js"></script>
 
 </html>
+
 
 ' ?>
