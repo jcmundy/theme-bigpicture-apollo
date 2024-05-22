@@ -400,22 +400,20 @@
                 They flew their Lunar Module to a perfect landing 104 hours, 42 minutes, and 29 seconds after launch (6:16 pm EDT on July 30) at Hadley Rille about 550 meters (about 1800 feet) north and slightly east of the targeted landing point. They touched down with two of the Lunar Module’s landing pads just over the edge of a small crater, causing the lunar module to tilt (NASA 1971, 62-63). But they were stable enough to continue their mission. They landed in the Apennine Range, a high, sloped area that permitted diverse opportunities for geological exploration and sampling (NASA 1971, 14).
               </p>
               <p data-aos="fade-in">
-                The following cue card, which is also part of the Apollo 15 Learning Hub’s collection, contains
-                hand-written notes by Commander David Scott. The cue card was inside the Lunar Module and presents a
-                list of steps that the crew of the LM had to follow during the landing on the Moon’s surface.
+                The following cue card, which is also part of the Apollo 15 Learning Hub’s collection, contains hand-written notes by Commander David Scott. The cue card was inside the Lunar Module and presents information about the boost and aborts that the crew of the LM had to follow during the landing on the Moon’s surface.
               </p>
               <div class="margin-v2" data-aos="fade-in">
                 <figcaption class="uk-flex uk-flex-bottom uk-flex-between uk-margin-small-bottom">
-                  <div class="object-title">LM Cue Card with List of Steps for Moon Landing (NASA, 1971f)</div>
+                  <div class="object-title">LM Cue Card with Information on Boost and Aborts for Moon Landing (NASA, 1971f).</div>
                   <a class="object-action uk-button uk-button-default"
-                    href="https://readux.io/volume/v016s/page/v016s_12F.tif" target="_blank">
+                    href="https://readux.io/volume/v016s/page/v016s_10F.tif" target="_blank">
                     <!--<span uk-icon="link"></span>-->
                     view
                   </a>
                 </figcaption>
                 <a href="https://readux.io/volume/v016s/page/v016s_12F.tif">
                   <img class="uk-width-1-1"
-                    src="https://iip.readux.io/iiif/2/v016s_12F.tif/full/full/0/default.jpg">
+                    src="https://iip.readux.io/iiif/2/v016s_10F.tif/full/full/0/default.jpg">
                 </a>
               </div>
               <p data-aos="fade-in">
@@ -960,7 +958,5 @@
 <script src="https://apollo15hub.org/themes/bigpicture/js/index.js"></script>
 
 </html>
-
-
 
 ' ?>
